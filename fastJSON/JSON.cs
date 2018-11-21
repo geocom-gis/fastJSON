@@ -148,7 +148,8 @@ namespace fastJSON
                 UseOptimizedDatasetSchema = UseOptimizedDatasetSchema,
                 UseUTCDateTime = UseUTCDateTime,
                 UseValuesOfEnums = UseValuesOfEnums,
-                UsingGlobalTypes = UsingGlobalTypes
+                UsingGlobalTypes = UsingGlobalTypes,
+                GuidStringFormat = GuidStringFormat
             };
         }
 
